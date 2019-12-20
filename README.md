@@ -17,3 +17,10 @@ https://www.kaggle.com/orgesleka/used-cars-database
 • sdPrice (Square deviation of price)
 
 
+<b><h1>데이터 히트맵으로 </h1></b>
+ def heatmap(self):
+        plt.figure(figsize=(14, 8))
+        sns.heatmap(self.df.corr(), annot=True, cmap='cubehelix_r')
+        plt.show()
+
+
