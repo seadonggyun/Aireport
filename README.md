@@ -6,7 +6,7 @@
 <b><h1>데이터 출처</h1></b>
 https://www.kaggle.com/orgesleka/used-cars-database
 
-<b><h1>데이터</h1></b>
+<b><h1>데이터 </h1></b>
 • count
 • km
 • year
